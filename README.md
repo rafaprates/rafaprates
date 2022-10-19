@@ -11,7 +11,6 @@ Recentemente me formei em Engenharia Elétrica pela Universidade Federal de Mato
 ### Get in touch 📧
 
 - [LinkedIn](https://www.linkedin.com/in/rafaelbprates)
-- [E-mail](rafaelbprates@gmail.com)
 <!--
 **rafaprates/rafaprates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
